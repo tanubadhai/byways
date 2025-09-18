@@ -1,0 +1,6 @@
+title: "Byways"
+description: "My GitHub Pages site"
+url: "https://tanubadhai.github.io"
+baseurl: "/byways"   # repo name
+include:
+  - index.html
